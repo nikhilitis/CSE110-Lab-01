@@ -3,7 +3,7 @@
 **Hi, my name is Nikhil Rao.**
 I am a fourth year Computer Science: Bioinformatics major at UCSD.
 
-From not understanding how `"Hello world"` is to be printed to writing complex programs in software engineering internships, I fell as though I have come a long way in my journey as a student.
+From not understanding how to print `Hello world` to writing complex programs in software engineering internships, I have come a long way in my journey as a student.
 
 One of my favorite lessons that I learned about programming during my first year at UCSD was:
 > The program will do exactly what you tell it to do, not what you want it to do.
